@@ -1,3 +1,6 @@
-👋 I'm Jacob, 17 year old guy from Slovakia
-👀 I'm learing Back-end development and Front-end, I'm planning to learn Ai in the future
-🤔 My hobbies are: Studying Japanese, videogames, anime and programming 😌 
+👋 Hey, I’m Jakub — aka SpoofCat
+🎓 18 y/o | Based in Slovakia
+🛡️ Studying Cybersecurity – Blue & Red Teaming
+🔴 Focusing on Red Teaming, Ethical Hacking & Exploitation
+💻 Passionate about quiet, focused work
+🧠 Always learning, always curious
