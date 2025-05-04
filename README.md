@@ -1,4 +1,4 @@
-👋 Hey, I’m Jakub — aka SpoofCat
+👋 Hey, I’m Jakub — aka Bonzajj
 🎓 18 y/o | Based in Slovakia
 🛡️ Studying Cybersecurity – Blue & Red Teaming
 🔴 Focusing on Red Teaming, Ethical Hacking & Exploitation
